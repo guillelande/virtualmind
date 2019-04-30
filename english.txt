@@ -1,3 +1,0 @@
-1. normalized schema is a database with a table and column structure designed to reduce data redundancy.
-
-2. 
