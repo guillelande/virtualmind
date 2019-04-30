@@ -1,0 +1,7 @@
+1. el script de la base de datos está en el archivo script.sql, lleva por nombre VurtualMind, userid=guille, password=]NMwrfGY77Zfrjwj
+
+2. las rutas de los servicios son:
+	http://localhost:8080/api/cotizacion/{moneda}
+	http://localhost:8080/api/users
+	
+3. el test de javascript se encuentra en el archivo test.js
